@@ -1,0 +1,11 @@
+body {
+  background-color: lightgray;
+}
+
+.thumbnail {
+  max-height: 200px;
+  width: 250px;
+  margin: 0.5rem;
+  object-fit: cover;
+  border-radius: 16px;
+}
